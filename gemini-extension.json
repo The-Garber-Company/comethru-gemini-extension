@@ -1,0 +1,11 @@
+{
+  "name": "comethru",
+  "version": "1.0.0",
+  "description": "Create and run comethru events through a guided conversation, with workspace permissions and approval before changes.",
+  "mcpServers": {
+    "comethru": {
+      "httpUrl": "https://www.comethru.app/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

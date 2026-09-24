@@ -1,0 +1,5 @@
+[[rule]]
+mcpName = "comethru"
+toolName = "execute_action"
+decision = "ask_user"
+priority = 100
