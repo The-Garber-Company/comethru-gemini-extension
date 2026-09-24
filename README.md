@@ -31,7 +31,7 @@ Guest-list access may share attendee names, contact details and ticket/check-in 
 ## Support
 
 - [comethru](https://www.comethru.app)
-- [Setup and permissions](https://www.comethru.app/dashboard/connectors)
+- [Setup and permissions](https://www.comethru.app/connectors)
 - [Privacy](https://www.comethru.app/privacy)
 - [Terms](https://www.comethru.app/terms)
 - support@comethru.events

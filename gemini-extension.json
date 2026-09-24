@@ -1,6 +1,6 @@
 {
   "name": "comethru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create and run comethru events through a guided conversation, with workspace permissions and approval before changes.",
   "mcpServers": {
     "comethru": {
