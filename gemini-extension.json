@@ -1,7 +1,7 @@
 {
   "name": "comethru",
-  "version": "1.0.1",
-  "description": "Create and run comethru events through a guided conversation, with workspace permissions and approval before changes.",
+  "version": "1.1.0",
+  "description": "Run your comethru workspace through a guided conversation: events, guests, contacts, messages, the door and reporting, with your permissions and approval before changes.",
   "mcpServers": {
     "comethru": {
       "httpUrl": "https://www.comethru.app/api/mcp"
